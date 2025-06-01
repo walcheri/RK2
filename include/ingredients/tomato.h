@@ -2,5 +2,5 @@
 #include "hamburger_ingredient.h"
 
 struct Tomato : public HamburgerIngredient {
-    std::string Name() const override { return "Tomato" };
+    std::string Name() const override { return "Tomato"; };
 };
