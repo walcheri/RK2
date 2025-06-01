@@ -1,6 +1,6 @@
 #include "../include/hamburger.h"
-#include "../include/ingredients/light_bread.h"
-#include "../include/ingredients/beef_patty.h"
+#include "../include/ingredients/bread.h"
+#include "../include/ingredients/patty.h"
 #include <gtest/gtest.h>
 #include <vector>
 
